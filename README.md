@@ -1,3 +1,1 @@
-- Yo, Im Kellohylly (Sometimes know as Kello, KelloDev / Kellodev)
-- i like to code stuff, currently more focused on web developement
-- yeah idk what to add here:D
+skid
